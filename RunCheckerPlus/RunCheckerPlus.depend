@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1444434737 source:c:\users\mark\desktop\eclipse\runcheckerplus\main.cpp
+	<iostream>
+	"DayOfWeek.h"
+
+1444434737 source:c:\users\mark\desktop\eclipse\runcheckerplus\dayofweek.cpp
+	"DayOfWeek.h"
+	"Runner.h"
+	<iostream>
+	<string>
+
+1444434820 c:\users\mark\desktop\eclipse\runcheckerplus\dayofweek.h
+	<string>
+
+1444434737 c:\users\mark\desktop\eclipse\runcheckerplus\runner.h
+	<string>
+
+1444434737 source:c:\users\mark\desktop\eclipse\runcheckerplus\runner.cpp
+	"Runner.h"
+	"DayOfWeek.h"
+	<iostream>
+	<string>
+
